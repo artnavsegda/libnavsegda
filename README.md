@@ -1,0 +1,2 @@
+# libnavsegda
+Library test project
